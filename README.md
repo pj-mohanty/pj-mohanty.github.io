@@ -1,5 +1,3 @@
-# React + Vite
-
 # Personal Portfolio 
 > An aesthetic and responsive portfolio!
 
